@@ -42,5 +42,5 @@ Whether you're in the mood for laughs or feels, this app gives you a fresh persp
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AdwinTS/TV-Series-Mood-Recapper.git
 cd tv-series-recapper
